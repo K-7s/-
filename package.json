@@ -1,6 +1,7 @@
 {
-  "name": "tax-bot",
+  "name": "discord-bank-50-cmds",
   "version": "1.0.0",
+  "description": "50 Economy Commands Bot without prefix by s7le",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^14.14.1",
